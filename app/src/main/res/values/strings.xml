@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Admin</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="namamobil">Nama Mobil</string>
+    <string name="nohp">No Hp</string>
+    <string name="rute">Rute</string>
+    <string name="fasilitas">Fasilitas</string>
+    <string name="jadwal">jadwal</string>
+    <string name="harga">harga</string>
+    <string name="simpan">Simpan</string>
+    <string name="update_data">Update Data Anggota</string>
+    <string name="update">Ubah</string>
+    <string name="judul_tambah_detil">Tambah Data Mobil</string>
+    <string name="detil_alamat">Alamat Lengkap</string>
+    <string name="detil_tombol_tambah">Tambah Data</string>
+    <string name="item_alat">Alat</string>
+    <string name="item_bahan">Bahan</string>
+    <string name="item_cara">Cara</string>
+    <string name="anggota_nama">Nama</string>
+    <string name="anggota_kota">Kota Lahir</string>
+    <string name="anggota_usia">Usia</string>
+    <string name="judul">Input Data Mobil</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844506633831",
+    "project_id": "admin-edf3f",
+    "storage_bucket": "admin-edf3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844506633831:android:0439cf557effee3c4066c2",
+        "android_client_info": {
+          "package_name": "com.fitri.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844506633831-uopf3eomipoag3rr308lniuhdko7h757.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNQ8ssLgSRr-IUty0UKU5bQGmnsU2Np-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844506633831-uopf3eomipoag3rr308lniuhdko7h757.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
